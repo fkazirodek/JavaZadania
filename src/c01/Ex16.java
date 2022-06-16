@@ -1,4 +1,4 @@
-package c01examples;
+package c01;
 
 class Ex16 {
 
