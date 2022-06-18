@@ -3,7 +3,7 @@ package c02.ex01;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 
-public class Ex01 {
+public class Calendar {
     public static void main(String[] args) {
         LocalDate date = LocalDate.now().withDayOfMonth(1);
         int month;
